@@ -1,4 +1,4 @@
-package com.kys95.springboot.web.dto;
+package com.kys95.springboot.web;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;
